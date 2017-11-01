@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=void\ Insertar_Primero(java.lang.Object)
+comment1.params=
+comment1.target=boolean\ EstaVacia()
+comment2.params=
+comment2.target=java.lang.Object\ Primero()
+comment3.params=
+comment3.target=java.lang.Object\ Ultimo()
+comment4.params=
+comment4.target=int\ Cuantos_Elementos()
+comment5.params=
+comment5.target=void\ mostrar()
+comment5.text=\ public\ void\ Buscar(Object\ valor){\r\n\ \ \ \ \ \ \ \ \ \ \ \ Nodo\ tempo\ \=\ primero;\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ Contador\=0;\r\n\ \ \ \ \ \ \ \ \ \ \ \ while\ (tempo\!\=null){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if\ (tempo.ObtenerValor.toString.equals(valor)){\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println("El\ valor\ se\ encuantra\ en\ el\ \u00EDndice\ "+Contador);\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Contador++;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n}
+numComments=6
